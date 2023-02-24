@@ -1,0 +1,22 @@
+﻿<Window x:Class="Manager.Records.AllEmployees"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Manager.Records"
+        mc:Ignorable="d"
+        Title="Evidencija zaposlenih" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="employeesList" Loaded="employeesList_Loaded" >
+            <!--<DataGrid.Columns>
+                <DataGridTextColumn Header="Ime" Width="1*"/>
+                <DataGridTextColumn Header="Prezime" Width="1*"/>
+                <DataGridTextColumn Header="JMBG" Width="1*"/>
+                <DataGridTextColumn Header="Telefon" Width="1*"/>
+                <DataGridTextColumn Header="Zvanje" Width="1*"/>
+                <DataGridTextColumn Header="Na godišnjem" Width="1*"/>
+            </DataGrid.Columns>-->
+        </DataGrid>
+
+    </Grid>
+</Window>

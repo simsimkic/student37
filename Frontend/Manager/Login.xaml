@@ -1,0 +1,34 @@
+﻿<Window x:Class="Manager.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Manager"
+        mc:Ignorable="d"
+        Title="Zdravo klinika - Prijava" Height="322.666" Width="555.7"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize" Icon="Resources/appLogo.png"
+        KeyDown="Window_KeyDown">
+    <Window.Background>
+        <ImageBrush  Stretch="UniformToFill" ImageSource="Resources/background.jpg"/>
+    </Window.Background>
+    <Grid Margin="15" Background="#97FFFFFF" Width="230" Height="180">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48"/>
+            <RowDefinition Height="48"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblUsername" Grid.Column="0" Grid.Row="0" Content="Korisničko ime:" VerticalAlignment="Top" Margin="5,0"/>
+        <Label x:Name="lblPassword" Grid.Column="0" Grid.Row="1" Content="Lozinka:"  VerticalAlignment="Top" Margin="5,0"/>
+
+        <TextBox x:Name="txtUsername" Grid.Row="0" VerticalAlignment="Bottom" Margin="10,0"/>
+        <PasswordBox x:Name="pwPass" Grid.Row="1" VerticalAlignment="bottom" Margin="10,0"/>
+        <CheckBox x:Name="chkKeep" Grid.Row="2" Content="Zadrži me prijavljenim" VerticalAlignment="Top" Margin="11,10,0,0"/>
+        <Button x:Name="btnLogin" Grid.Row="3" Content="Prijava" VerticalAlignment="Top" Height="30" Click="btnLogin_Click" Margin="43,0,10,0" />
+        <Image Grid.Row="3" Source="Resources/syLogin.png" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,0"/>
+    </Grid>
+</Window>

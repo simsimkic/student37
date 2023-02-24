@@ -1,0 +1,435 @@
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe.config
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\WpfLekar.pdb
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\MainWindow.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\App.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.cache
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.lref
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\MainWindow.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar.g.resources
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar.Properties.Resources.resources
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.GenerateResource.Cache
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar.exe
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar.pdb
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csprojResolveAssemblyReference.cache
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Contact.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Gallery.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Help.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\LogIn.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\AboutUs.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Home.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Registration.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Service.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Faq.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Contact.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Gallery.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Help.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\LogIn.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\AboutUs.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Home.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Registration.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Service.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Faq.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\MyAccount.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\MyAccount.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Tutorial.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Tutorial.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Code.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Code.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\MySchedule.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\MySchedule.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\PatientCard.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\PatientCard.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Anamnesis.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Anamnesis.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Recipe.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Recipe.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Reports.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Reports.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Allergies.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Allergies.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Treatment.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\Treatment.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.baml
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.g.cs
+C:\Users\MASHA\Desktop\FAKS\IČR (HCI)\vezbaWPF\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csprojAssemblyReference.cache
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.ResolveComReference.cache
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Allergies.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Anamnesis.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Code.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Contact.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Gallery.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Help.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\LogIn.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\AboutUs.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Home.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MyAccount.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MySchedule.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\PatientCard.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Recipe.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Registration.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Reports.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Service.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Faq.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Treatment.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Tutorial.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\App.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_Content.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.cache
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.lref
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.exe
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.pdb
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe.config
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.pdb
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\itextsharp.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Klinika.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignColors.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\itextsharp.xml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Klinika.pdb
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Allergies.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Anamnesis.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Code.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Contact.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Gallery.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Help.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\LogIn.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MainWindow.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\AboutUs.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Home.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MyAccount.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MySchedule.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\PatientCard.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Recipe.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Registration.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Reports.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Service.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Faq.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Treatment.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Tutorial.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.baml
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.g.resources
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.Properties.Resources.resources
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.GenerateResource.cache
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Downloads\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.CopyComplete
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe.config
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Interop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.ResolveComReference.cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.exe
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\itextsharp.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Klinika.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignColors.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\itextsharp.xml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Klinika.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\Interop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csprojResolveAssemblyReference.cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Allergies.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Anamnesis.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Code.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Contact.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Gallery.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Help.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\LogIn.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\MainWindow.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\AboutUs.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Home.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\MyAccount.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\MySchedule.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\PatientCard.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Recipe.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Registration.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Reports.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Service.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Faq.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Treatment.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Tutorial.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\App.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_Content.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.lref
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Allergies.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Anamnesis.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Code.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Contact.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Gallery.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Help.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\LogIn.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\MainWindow.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\AboutUs.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Home.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\MyAccount.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\MySchedule.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\PatientCard.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Recipe.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Registration.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Reports.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Service.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Faq.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Treatment.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\Tutorial.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.g.resources
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.Properties.Resources.resources
+C:\Users\MASHA\Desktop\FAKS\SiMS\dijagnoza_dodaj\dijagnoza_dodaj\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.GenerateResource.Cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe.config
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.exe
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\WpfLekar.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\itextsharp.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Klinika.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignColors.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\itextsharp.xml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Klinika.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\Interop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csprojResolveAssemblyReference.cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Interop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.ResolveComReference.cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Allergies.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Anamnesis.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Code.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Contact.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Gallery.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Help.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\LogIn.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MainWindow.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\AboutUs.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Home.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MyAccount.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MySchedule.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\PatientCard.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Recipe.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Registration.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Reports.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Service.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Faq.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Treatment.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Tutorial.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\App.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_Content.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar_MarkupCompile.lref
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Allergies.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Anamnesis.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ChatWithColleagues.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Code.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Contact.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ExaminationOrOperation.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ForgotPassword.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Gallery.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Help.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\LogIn.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MainWindow.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\AboutUs.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Home.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MyAccount.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\MySchedule.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\PatientCard.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\QuestionsFromPatients.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Recipe.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetterAsk.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\RecoveryRoomAsk.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ReferralLetter.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleRecoveryRoom.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistExamination.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Registration.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Reports.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExamination.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleExaminationPicker.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\SchedulePatientExamination.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ScheduleSpecialistOperation.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Service.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Faq.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Treatment.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\Tutorial.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\ValidationMedicins.baml
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.g.resources
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.Properties.Resources.resources
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.csproj.GenerateResource.Cache
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.exe
+C:\Users\MASHA\Desktop\FAKS\SiMS\PROJEKAT 1\projekat1-klinika\Frontend\WpfLekar\WpfLekar\obj\Debug\WpfLekar.pdb

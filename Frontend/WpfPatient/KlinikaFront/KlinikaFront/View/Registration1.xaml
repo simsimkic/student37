@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="KlinikaFront.View.Registration1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KlinikaFront.View"
+             xmlns:val="clr-namespace:KlinikaFront.Validation"
+             mc:Ignorable="d" 
+             d:DesignHeight="853" d:DesignWidth="480">
+    <Grid>
+        <StackPanel>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="480">
+                <Grid Height="80" Background="#FF49AAA1">
+                    <Label Content="Registracija" HorizontalAlignment="Left" Margin="30,23,0,15" Width="185" FontSize="24" VerticalContentAlignment="Center"/>
+                    <Button Content="PRIJAVI SE" HorizontalAlignment="Right" Width="133" Margin="0,10,10,10" FontSize="20" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF3E67D4" Command="{Binding GoToLogin}"/>
+
+                </Grid>
+            </Border>
+            <Label Content="Unesite vaše podatke." Margin="0,30,0,0" Height="40" Width="480" FontSize="20" HorizontalContentAlignment="Center"/>
+            <Label Content="Ime:" Margin="70,10,70,0" FontSize="20"/>
+            <TextBox  Height="40" TextWrapping="Wrap" Margin="70,0,70,0" FontSize="20" VerticalContentAlignment="Center">
+                <TextBox.Text>
+                    <Binding Path="RegisterUserDTO.Name" UpdateSourceTrigger="LostFocus">
+                        <Binding.ValidationRules>
+                            <val:NameValidationRule ValidationStep="RawProposedValue" Field="Ime"/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <Label Content="Prezime:" Margin="70,10,70,0" FontSize="20"/>
+            <TextBox  Height="40" TextWrapping="Wrap" Margin="70,0,70,0" FontSize="20" VerticalContentAlignment="Center">
+                <TextBox.Text>
+                    <Binding Path="RegisterUserDTO.LastName" UpdateSourceTrigger="LostFocus">
+                        <Binding.ValidationRules>
+                            <val:NameValidationRule ValidationStep="RawProposedValue" Field="Prezime"/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <Label Content="E-mail adresa:" Margin="70,10,70,0" FontSize="20"/>
+            <TextBox  Height="40" TextWrapping="Wrap" Margin="70,0,70,0" FontSize="20" VerticalContentAlignment="Center">
+                <TextBox.Text>
+                    <Binding Path="RegisterUserDTO.Email" UpdateSourceTrigger="LostFocus">
+                        <Binding.ValidationRules>
+                            <val:EmailValidationRule ValidationStep="RawProposedValue"/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <Label Content="Korisničko ime:" Margin="70,10,70,0" FontSize="20"/>
+            <TextBox  Height="40" TextWrapping="Wrap" Margin="70,0,70,0" FontSize="20" VerticalContentAlignment="Center">
+                <TextBox.Text>
+                    <Binding Path="RegisterUserDTO.Username" UpdateSourceTrigger="LostFocus">
+                        <Binding.ValidationRules>
+                            <val:UsernameValidationRule ValidationStep="RawProposedValue"/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <Label Content="Lozinka:" Margin="70,10,70,0" FontSize="20"/>
+            <PasswordBox x:Name="Password" FontSize="20" VerticalContentAlignment="Center" Height="40" Margin="70,0,70,0" PasswordChanged="PasswordBox_PasswordChanged" LostFocus="PasswordBox_LostFocus"/>
+            <Label Content="Ponovljena lozinka:" Margin="70,10,70,0" FontSize="20"/>
+            <PasswordBox x:Name="RepeatedPassword" FontSize="20" VerticalContentAlignment="Center" Height="40" Margin="70,0,70,0" PasswordChanged="PasswordBox_PasswordChanged_1" LostFocus="PasswordBox_LostFocus_1"/>
+            <Button Content="DALJE" FontSize="20" Height="40" Margin="70,30,70,0" Command="{Binding GoToNextRegistration}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

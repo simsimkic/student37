@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{027B7CF7-EB33-4735-AEB7-C01B67AB2270}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Klinika</RootNamespace>
+    <AssemblyName>Klinika</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\Clinic\PrescriptionMedicineController.cs" />
+    <Compile Include="Controller\Clinic\RoomDeptController.cs" />
+    <Compile Include="Controller\Clinic\RoomFuncController.cs" />
+    <Compile Include="Controller\Documents\DiagnosisController.cs" />
+    <Compile Include="Controller\MedicalServices\AppointmentRecommendationController.cs" />
+    <Compile Include="Controller\MedicalServices\TreatmentController.cs" />
+    <Compile Include="Controller\Users\AddressController.cs" />
+    <Compile Include="Controller\Users\SpecialistController.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\PrescriptionMedicineDao.cs" />
+    <Compile Include="Dao\Clinic\IPrescriptionMedicineDao.cs" />
+    <Compile Include="Dao\MedicalServices\CSVImpl\TreatmentDao.cs" />
+    <Compile Include="Dao\MedicalServices\ITreatmentDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\AccountDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\AddressDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\SpecialistDao.cs" />
+    <Compile Include="Dao\Users\IAccountDao.cs" />
+    <Compile Include="Dao\Users\IAddressDao.cs" />
+    <Compile Include="Dao\Users\ISpecialistDao.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\DepartmentCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\EquipmentCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\FunctionalityCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\IngredientCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\MedicineCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\PrescriptionMedicineCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\RecoveryRoomCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\RenovationCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Clinic\RoomCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Documents\DiagnosisCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Documents\MedicalRecordCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Documents\QuestionCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Documents\ReferralLetterCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Employees\ShiftCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Employees\WorkTimeCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\ICSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\ListCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\MedicalServices\AppointmentCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\MedicalServices\MedicalExaminationCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\MedicalServices\MedicalOperationCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\MedicalServices\MedicalPrescriptionCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\MedicalServices\TreatmentCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\MedicalServices\MedicalTreatmentCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\AccountCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\AddressCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\CityCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\CountryCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\SpeciialistCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\DoctorCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\MunicipalityCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\PatientCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\SecretaryCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\SpecializationCSVConverter.cs" />
+    <Compile Include="Database\Csv\Converter\Users\UserCSVConverter.cs" />
+    <Compile Include="Database\Csv\Stream\CSVStream.cs" />
+    <Compile Include="Database\Csv\Stream\ICSVStream.cs" />
+    <Compile Include="Database\IIdentifiable.cs" />
+    <Compile Include="Database\Sequencer\ISequencer.cs" />
+    <Compile Include="Database\Sequencer\LongSequencer.cs" />
+    <Compile Include="Dto\AccountDTO.cs" />
+    <Compile Include="Dto\MedicalExaminationDTO.cs" />
+    <Compile Include="Dto\MedicalExaminationToSpecialistDTO.cs" />
+    <Compile Include="Dto\ReferralLetterDTO.cs" />
+    <Compile Include="Model\Doctor\Treatment.cs" />
+    <Compile Include="Model\Doctor\PrescriptionMedicine.cs" />
+    <Compile Include="Model\User\User.cs" />
+    <Compile Include="Model\User\City.cs" />
+    <Compile Include="Model\User\Municipality.cs" />
+    <Compile Include="Model\User\Address.cs" />
+    <Compile Include="Model\User\Country.cs" />
+    <Compile Include="Model\User\Role.cs" />
+    <Compile Include="Model\Secretary\MedicalOperation.cs" />
+    <Compile Include="Model\Secretary\Schedule.cs" />
+    <Compile Include="Model\Secretary\Secretary.cs" />
+    <Compile Include="Model\Secretary\Appointment.cs" />
+    <Compile Include="Model\Secretary\PatientAccounts.cs" />
+    <Compile Include="Model\Secretary\AppointmentType.cs" />
+    <Compile Include="Model\Patient\Patient.cs" />
+    <Compile Include="Model\Patient\MedicalRecord.cs" />
+    <Compile Include="Model\Patient\Employment.cs" />
+    <Compile Include="Model\Patient\HealthCare.cs" />
+    <Compile Include="Model\Patient\Sex.cs" />
+    <Compile Include="Model\Patient\MaritalStatus.cs" />
+    <Compile Include="Model\Patient\Question.cs" />
+    <Compile Include="Model\Manager\Room.cs" />
+    <Compile Include="Model\Manager\Equipment.cs" />
+    <Compile Include="Model\Manager\Medicine.cs" />
+    <Compile Include="Model\Manager\EquipmentType.cs" />
+    <Compile Include="Model\Manager\Ingredient.cs" />
+    <Compile Include="Model\Manager\Renovation.cs" />
+    <Compile Include="Model\Manager\RenovationType.cs" />
+    <Compile Include="Model\Manager\Shift.cs" />
+    <Compile Include="Model\Manager\Reparation.cs" />
+    <Compile Include="Model\Manager\WorkTime.cs" />
+    <Compile Include="Model\Manager\AssignedShift.cs" />
+    <Compile Include="Model\Manager\Valid.cs" />
+    <Compile Include="Model\Manager\Manager.cs" />
+    <Compile Include="Model\Manager\RecoveryRoom.cs" />
+    <Compile Include="Model\Manager\Department.cs" />
+    <Compile Include="Model\Manager\Functionality.cs" />
+    <Compile Include="Model\Manager\Status.cs" />
+    <Compile Include="Model\Doctor\MedicalExamination.cs" />
+    <Compile Include="Model\Doctor\Doctor.cs" />
+    <Compile Include="Model\Doctor\Vacation.cs" />
+    <Compile Include="Model\Doctor\MedicalPrescription.cs" />
+    <Compile Include="Model\Doctor\ReferralLetter.cs" />
+    <Compile Include="Model\Doctor\MedicalTreatment.cs" />
+    <Compile Include="Model\Doctor\Diagnosis.cs" />
+    <Compile Include="Model\Doctor\Specialization.cs" />
+    <Compile Include="Model\Doctor\Specialist.cs" />
+    <Compile Include="Controller\Clinic\MedicineController.cs" />
+    <Compile Include="Controller\Clinic\RenovationController.cs" />
+    <Compile Include="Controller\Clinic\IngredientController.cs" />
+    <Compile Include="Controller\Clinic\EquipmentController.cs" />
+    <Compile Include="Controller\Clinic\RoomController.cs" />
+    <Compile Include="Controller\Clinic\RecoveryRoomController.cs" />
+    <Compile Include="Controller\Users\EmployeeControler.cs" />
+    <Compile Include="Controller\Users\PatientController.cs" />
+    <Compile Include="Controller\Users\DoctorController.cs" />
+    <Compile Include="Controller\Users\SpecializationController.cs" />
+    <Compile Include="Controller\Users\SecretaryController.cs" />
+    <Compile Include="Controller\Users\ManagerController.cs" />
+    <Compile Include="Controller\Employees\WorkTimeController.cs" />
+    <Compile Include="Controller\Employees\ShiftController.cs" />
+    <Compile Include="Controller\Documents\MedicalRecordController.cs" />
+    <Compile Include="Controller\Documents\ReferralLetterController.cs" />
+    <Compile Include="Controller\Documents\EmploymentController.cs" />
+    <Compile Include="Controller\Documents\HealthCareController.cs" />
+    <Compile Include="Controller\Documents\QuestionController.cs" />
+    <Compile Include="Controller\MedicalServices\MedicalExaminationController.cs" />
+    <Compile Include="Controller\MedicalServices\MedicalPrescriptionController.cs" />
+    <Compile Include="Controller\MedicalServices\MedicalTreatmentController.cs" />
+    <Compile Include="Controller\MedicalServices\PatientExaminationController.cs" />
+    <Compile Include="Controller\MedicalServices\MedicalOperationController.cs" />
+    <Compile Include="Controller\MedicalServices\AppointmentController.cs" />
+    <Compile Include="Controller\MedicalServices\PatientTreatmentController.cs" />
+    <Compile Include="Controller\MedicalServices\DoctorsAppointmentsController.cs" />
+    <Compile Include="Controller\MedicalServices\RoomsAppointmentsController.cs" />
+    <Compile Include="Service\Clinic\PrescriptionMedicineService.cs" />
+    <Compile Include="Service\Clinic\RenovationService.cs" />
+    <Compile Include="Service\Clinic\MedicineService.cs" />
+    <Compile Include="Service\Clinic\RoomService.cs" />
+    <Compile Include="Service\Clinic\EquipmentService.cs" />
+    <Compile Include="Service\Clinic\RecoveryRoomService.cs" />
+    <Compile Include="Service\Clinic\IngredientService.cs" />
+    <Compile Include="Service\Clinic\RoomDeptService.cs" />
+    <Compile Include="Service\Clinic\RoomFuncService.cs" />
+    <Compile Include="Service\Documents\DiagnosisService.cs" />
+    <Compile Include="Service\Employees\WorkTimeService.cs" />
+    <Compile Include="Service\Employees\ShiftService.cs" />
+    <Compile Include="Service\MedicalServices\AppointmentRecommendationService.cs" />
+    <Compile Include="Service\MedicalServices\AppointmentStrategies\DateAppointmentStrategy.cs" />
+    <Compile Include="Service\MedicalServices\AppointmentStrategies\DoctorAppointmentStrategy.cs" />
+    <Compile Include="Service\MedicalServices\IAppointmentStrategy.cs" />
+    <Compile Include="Service\MedicalServices\TreatmentService.cs" />
+    <Compile Include="Service\Users\AbstractUserService.cs" />
+    <Compile Include="Service\Users\AddressService.cs" />
+    <Compile Include="Service\Users\SpecialistService.cs" />
+    <Compile Include="Service\Users\SecretaryService.cs" />
+    <Compile Include="Service\Users\PatientService.cs" />
+    <Compile Include="Service\Users\DoctorService.cs" />
+    <Compile Include="Service\Users\SpecializationService.cs" />
+    <Compile Include="Service\Users\EmployeeService.cs" />
+    <Compile Include="Service\Users\UserValidationService.cs" />
+    <Compile Include="Service\Users\ManagerService.cs" />
+    <Compile Include="Service\MedicalServices\MedicalOperationService.cs" />
+    <Compile Include="Service\MedicalServices\AppointmentService.cs" />
+    <Compile Include="Service\MedicalServices\MedicalPrescriptionService.cs" />
+    <Compile Include="Service\MedicalServices\MedicalTreatmentService.cs" />
+    <Compile Include="Service\MedicalServices\MedicalExaminationService.cs" />
+    <Compile Include="Service\MedicalServices\PatientTreatmentService.cs" />
+    <Compile Include="Service\MedicalServices\PatientExaminationService.cs" />
+    <Compile Include="Service\MedicalServices\DoctorsAppointmentsService.cs" />
+    <Compile Include="Service\MedicalServices\RoomsAppointmentsService.cs" />
+    <Compile Include="Service\Documents\EmploymentService.cs" />
+    <Compile Include="Service\Documents\ReferralLetterService.cs" />
+    <Compile Include="Service\Documents\MedicalRecordService.cs" />
+    <Compile Include="Service\Documents\HealthCareService.cs" />
+    <Compile Include="Service\Documents\QuestionService.cs" />
+    <Compile Include="Dto\RegisterUserDTO.cs" />
+    <Compile Include="Dto\ScheduleExaminationDTO.cs" />
+    <Compile Include="Dto\MedicalOperationDTO.cs" />
+    <Compile Include="Dto\AnswerQuestionDTO.cs" />
+    <Compile Include="Dto\EmployeesDTO.cs" />
+    <Compile Include="Dto\TermDTO.cs" />
+    <Compile Include="Dao\ICRUDDao.cs" />
+    <Compile Include="Dao\MedicalServices\IAppointmentDao.cs" />
+    <Compile Include="Dao\MedicalServices\IMedicalTreatmentDao.cs" />
+    <Compile Include="Dao\MedicalServices\IMedicalExaminationDao.cs" />
+    <Compile Include="Dao\MedicalServices\IMedicalOperationDao.cs" />
+    <Compile Include="Dao\MedicalServices\IMedicalPrescriptionDao.cs" />
+    <Compile Include="Dao\MedicalServices\CSVImpl\MedicalOperationDao.cs" />
+    <Compile Include="Dao\MedicalServices\CSVImpl\MedicalExaminationDao.cs" />
+    <Compile Include="Dao\MedicalServices\CSVImpl\MedicalTreatmentDao.cs" />
+    <Compile Include="Dao\MedicalServices\CSVImpl\AppointmentDao.cs" />
+    <Compile Include="Dao\MedicalServices\CSVImpl\MedicalPrescriptionDao.cs" />
+    <Compile Include="Dao\Clinic\IRoomFuncDao.cs" />
+    <Compile Include="Dao\Clinic\IRoomDepartmentDao.cs" />
+    <Compile Include="Dao\Clinic\IRoomDao.cs" />
+    <Compile Include="Dao\Clinic\IMedicineDao.cs" />
+    <Compile Include="Dao\Clinic\IIngredientDao.cs" />
+    <Compile Include="Dao\Clinic\IEquipmentDao.cs" />
+    <Compile Include="Dao\Clinic\IRecoveryRoomDao.cs" />
+    <Compile Include="Dao\Clinic\IRenovationDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\RoomDepartmentDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\RoomDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\EquipmentDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\RoomFuncDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\IngredientDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\MedicineDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\RecoveryRoomDao.cs" />
+    <Compile Include="Dao\Clinic\CSVImpl\RenovationDao.cs" />
+    <Compile Include="Dao\Employees\IScheduleDao.cs" />
+    <Compile Include="Dao\Employees\IWorkTimeDao.cs" />
+    <Compile Include="Dao\Employees\IShiftDao.cs" />
+    <Compile Include="Dao\Employees\CSVImpl\ScheduleDao.cs" />
+    <Compile Include="Dao\Employees\CSVImpl\WorkTimeDao.cs" />
+    <Compile Include="Dao\Employees\CSVImpl\ShiftDao.cs" />
+    <Compile Include="Dao\Documents\IMedicalRecordDao.cs" />
+    <Compile Include="Dao\Documents\IQuestionDao.cs" />
+    <Compile Include="Dao\Documents\IRefferalLetterDao.cs" />
+    <Compile Include="Dao\Documents\IDiagnosisDao.cs" />
+    <Compile Include="Dao\Documents\CSVImpl\MedicalRecordDao.cs" />
+    <Compile Include="Dao\Documents\CSVImpl\QuestionDao.cs" />
+    <Compile Include="Dao\Documents\CSVImpl\RefferalLetterDao.cs" />
+    <Compile Include="Dao\Documents\CSVImpl\DiagnosisDao.cs" />
+    <Compile Include="Dao\Users\IDoctorDao.cs" />
+    <Compile Include="Dao\Users\IManagerDao.cs" />
+    <Compile Include="Dao\Users\IPatientDao.cs" />
+    <Compile Include="Dao\Users\ISecretaryDao.cs" />
+    <Compile Include="Dao\Users\IUserDao.cs" />
+    <Compile Include="Dao\Users\ISpecializationDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\SecretaryDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\UserDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\DoctorDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\ManagerDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\PatientDao.cs" />
+    <Compile Include="Dao\Users\CSVImpl\SpecializationDao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

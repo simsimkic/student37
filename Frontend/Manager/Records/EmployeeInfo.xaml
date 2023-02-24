@@ -1,0 +1,72 @@
+﻿<Window x:Class="Manager.Records.EmployeeInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Manager.Records"
+        mc:Ignorable="d"
+        Title="Zaposleni" Height="448.4" Width="484.361"
+        Icon="/Manager;component/Resources/syProfile.png">
+    <DockPanel Margin="15">
+        <DockPanel>
+            <Grid DockPanel.Dock="Bottom" Height="30" Margin="0,0,0,7">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="btnClose" Grid.Column="0" Content="Zatvori" Margin="50,0,5,0" Click="btnClose_Click"/>
+                <Button x:Name="btnSettings" Grid.Column="1" Content="Izmeni" Margin="5,0,50,0" Click="btnSettings_Click"/>
+            </Grid>
+            <Grid Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Column="0" Grid.Row="0" Content="Ime i prezime:" HorizontalAlignment="Right"/>
+                <Label Grid.Column="0" Grid.Row="1" Content="JMBG:" HorizontalAlignment="Right"  />
+                <Label Grid.Column="0" Grid.Row="2" Content="Datum rođenja:" HorizontalAlignment="Right" />
+                <Label Grid.Column="0" Grid.Row="3" Content="Korisničko ime:" HorizontalAlignment="Right" VerticalAlignment="Bottom" />
+                <Separator Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="3" Margin="30,2,30.2,2" />
+                <Label Grid.Column="0" Grid.Row="5" Content="Adresa stanovanja:" HorizontalAlignment="Right"/>
+                <Label Grid.Column="0" Grid.Row="6" Content="Telefon:" HorizontalAlignment="Right" />
+                <Label Grid.Column="0" Grid.Row="7" Content="E-mail:" HorizontalAlignment="Right" />
+                <Label Grid.Column="0" Grid.Row="8" Content="Zvanje:" HorizontalAlignment="Right"/>
+                <Label Grid.Column="0" Grid.Row="9" Content="Radno vreme:" HorizontalAlignment="Right"/>
+
+                <Label Grid.Column="1" Grid.Row="0" Content="Gorana Jovanović" Grid.ColumnSpan="2"/>
+                <Label Grid.Column="1" Grid.Row="1" Content="0205990555575"/>
+                <Label Grid.Column="1" Grid.Row="2" Content="02.05.1990." Grid.ColumnSpan="2" />
+                <Label Grid.Column="1" Grid.Row="3" Content="gocaboss" VerticalAlignment="Bottom"/>
+                <Label Grid.Column="1" Grid.Row="5" Content="Bulevar Evrope 15, Novi Sad, Srbija" Grid.ColumnSpan="2"/>
+                <Label Grid.Column="1" Grid.Row="6" Content="+381/63 555 5555" Grid.ColumnSpan="2"/>
+                <Label Grid.Column="1" Grid.Row="7" Content="gordanajo@zdravo.rs" Grid.ColumnSpan="2" />
+                <Label Grid.Column="1" Grid.Row="8" Content="Lekar opšte prakse" Grid.ColumnSpan="2" />
+                <Label Grid.Column="1" Grid.Row="9" Content="07:00 - 14:00"/>
+                <Label Grid.Column="1" Grid.Row="10" Content="14:30 - 21:30"/>
+                <Label Grid.Column="1" Grid.Row="11" Content="pon | uto | sre | cet | pet" Grid.ColumnSpan="2"/>
+
+                <Image Grid.Column="2" Grid.Row="0" Grid.RowSpan="4" Source="/Manager;component/Resources/female-nopicture.png" Margin="20,0,10,0" Stretch="UniformToFill" />
+                <RadioButton Grid.Column="3" Grid.Row="9" Content="I smena" VerticalAlignment="Center"/>
+                <RadioButton Grid.Column="3" Grid.Row="10" Content="II smena" VerticalAlignment="Center"/>
+                <RadioButton Grid.Column="3" Grid.Row="12" Content="Na odmoru" VerticalAlignment="Center"/>
+            </Grid>
+        </DockPanel>
+    </DockPanel>
+</Window>

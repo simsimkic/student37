@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="KlinikaFront.View.LoginScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KlinikaFront.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="853" d:DesignWidth="480">
+    <Grid>
+        <StackPanel>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="480">
+                <Grid Height="80" Background="#FF49AAA1">
+                    <Label Content="Prijava na nalog" HorizontalAlignment="Left" Margin="10,15,0,15" Width="185" FontSize="24" VerticalContentAlignment="Center"/>
+                    <Button Content="KREIRAJ NALOG" HorizontalAlignment="Right" Width="212" Margin="0,10,10,10" FontSize="20" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF3E67D4" Command="{Binding GoToRegistration}"/>
+
+                </Grid>
+            </Border>
+            <Label Content="Unesite vaše korisničko ime i lozinku." Margin="0,150,0,0" Height="32" Width="480" FontSize="20" HorizontalContentAlignment="Center"/>
+            <Label Content="Korisničko ime:" Margin="70,30,70,0" FontSize="20"/>
+            <TextBox Height="40" TextWrapping="Wrap" Margin="70,0,70,0" FontSize="20" VerticalContentAlignment="Center" Text="{Binding Path=Username}"/>
+            <Label Content="Lozinka:" Margin="70,10,70,0" FontSize="20"/>
+            <PasswordBox FontSize="20" VerticalContentAlignment="Center" Height="40" Margin="70,0,70,0" PasswordChanged="PasswordBox_PasswordChanged"/>
+            <Button Content="PRIJAVI SE" FontSize="20" Height="40" Margin="70,30,70,0" Command="{Binding Login}"/>
+            <Button Content="Zaboravljena lozinka" FontSize="15" Margin="70,10,70,0" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF3E67D4"/>
+            <CheckBox Content="Zapamti me" VerticalContentAlignment="Center" FontSize="20" Margin="70,30,70,0"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

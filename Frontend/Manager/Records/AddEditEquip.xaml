@@ -1,0 +1,51 @@
+﻿<Window x:Class="Manager.Records.AddEditEquip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Manager.Records"
+        mc:Ignorable="d"
+        Title="Unos opreme" Height="245.6" Width="443.6"
+        ResizeMode="NoResize">
+    <DockPanel Margin="15">
+        <!-- Dugmici -->
+        <Grid DockPanel.Dock="Bottom" Height="30">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnClose" Grid.Column="0" Content="Odustani" Click="btnClose_Click" Width="140" HorizontalAlignment="Right"/>
+            <Button x:Name="btnSave" Grid.Column="1" Content="Evidentiraj" Margin="0,0,10,0" Click="btnSave_Click" Width="140" HorizontalAlignment="Left"/>
+        </Grid>
+
+        <Grid Margin="0,0,0,15">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="33" />
+                <RowDefinition />
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" Content="Identifikacioni broj:" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            <Label Grid.Column="0" Grid.Row="1" Content="Naziv:" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            <Label Grid.Column="0" Grid.Row="3" Content="Smesti u:" HorizontalContentAlignment="Right" VerticalAlignment="Center" />
+
+            <TextBox x:Name="txtID"    Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" TabIndex="0"/>
+            <TextBox x:Name="txtName"  Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" TabIndex="1"/>
+            <ComboBox x:Name="cmbRoom" Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" TabIndex="4"/>
+
+
+            <StackPanel Grid.Column="1" Grid.Row="2">
+                <RadioButton x:Name="rbtnConsumable" Content="Potrorošna roba" IsChecked="True" TabIndex="2"/>
+                <RadioButton x:Name="rbtnNonconsumable" Content="Nepotrišna roba" TabIndex="3"/>
+            </StackPanel>
+
+        </Grid>
+
+    </DockPanel>
+</Window>

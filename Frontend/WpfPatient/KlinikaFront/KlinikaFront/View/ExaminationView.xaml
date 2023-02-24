@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="KlinikaFront.View.ExaminationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KlinikaFront.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="853" Width="480">
+    <Grid>
+        <StackPanel>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="480">
+                <Grid Height="80" Background="#FF49AAA1">
+
+                    <Button HorizontalAlignment="Left" Margin="30,15,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="{x:Null}" Command="{Binding GoToPrevious}">
+                        <Image Source="../Resources/backicon.png"/>
+                    </Button>
+                    <StackPanel>
+                        <Label Content="Pregled" HorizontalAlignment="Center" Margin="15" FontSize="24"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+            <StackPanel>
+                <Label Content="Datum pregleda:" Margin="70,100,70,0" FontSize="20" Height="40"/>
+                <TextBox Text="{Binding Path=Date}" IsEnabled="False" Margin="70,0,70,0" FontSize="20" Height="40" VerticalContentAlignment="Center"/>
+                <Label Content="Vreme pregleda:" Margin="70,10,70,0" FontSize="20" Height="40"/>
+                <TextBox Text="{Binding Path=Time}" IsEnabled="False" Margin="70,0,70,0" FontSize="20" Height="40" VerticalContentAlignment="Center"/>
+                <Grid Margin="70,10,70,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel>
+                        <Label Content="Sala:" FontSize="20"/>
+                        <TextBox Text="{Binding Path=Room}" IsEnabled="False" Margin="0,0,10,0" FontSize="20" Height="40" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1">
+                        <Label Content="Sprat:" FontSize="20"/>
+                        <TextBox Text="{Binding Path=Examination.Room.Floor}"  IsEnabled="False" Margin="10,0,0,0" FontSize="20" Height="40" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </Grid>
+                <Label Content="Doktor:" Margin="70,10,70,0" FontSize="20" Height="40"/>
+                <TextBox Text="{Binding Path=DoctorName}" IsEnabled="False" Margin="70,0,70,0" FontSize="20" Height="40" VerticalContentAlignment="Center"/>
+                <Button Content="OTKAŽI PREGLED" FontSize="20" Height="40" Margin="70,30,70,0" Command="{Binding AbortExamination}"/>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

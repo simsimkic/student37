@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="KlinikaFront.View.QuestionItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KlinikaFront.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="70" d:DesignWidth="480">
+    <Button HorizontalContentAlignment="Left">
+        <Grid Width="475">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition Width="308"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Name="Title" Content="Naslov" FontSize="20"/>
+
+            <Label Name="Doctor" Content="Dr. Pera Peric" FontSize="20" Grid.Column="1"/>
+        </Grid>
+    </Button>
+</UserControl>

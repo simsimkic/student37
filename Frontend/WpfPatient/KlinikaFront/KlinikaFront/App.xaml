@@ -1,0 +1,42 @@
+﻿<Application x:Class="KlinikaFront.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KlinikaFront"
+             xmlns:viewmodel="clr-namespace:KlinikaFront.ViewModel"
+             xmlns:view="clr-namespace:KlinikaFront.View">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type viewmodel:MainViewModel}">
+            <view:Main />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:LoginViewModel}">
+            <view:LoginScreen />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:ScheduleExaminationViewModel}">
+            <view:ScheduleExamination />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:ExaminationsViewModel}">
+            <view:Examinations />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:Registration1ViewModel}">
+            <view:Registration1 />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:Registration2ViewModel}">
+            <view:Registration2 />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:TherapiesViewModel}">
+            <view:Therapies/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:ExaminationRecommendationViewModel}">
+            <view:ExaminationRecommendation/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:QuestionsViewModel}">
+            <view:Questions/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:ProfileViewModel}">
+            <view:Profile/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodel:ExaminationViewViewModel}">
+            <view:ExaminationView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

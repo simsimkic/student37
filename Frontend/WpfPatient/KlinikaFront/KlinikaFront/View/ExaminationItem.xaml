@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="KlinikaFront.View.ExaminationItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KlinikaFront.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="70" d:DesignWidth="480">
+    <Button HorizontalContentAlignment="Left">
+            <Grid Width="475">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="308"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <WrapPanel>
+                    <Label Name="Hours" Content="HH" HorizontalAlignment="Right" FontSize="40" Width="64"/>
+                    <Label Name="Minutes" Content="MM" HorizontalAlignment="Left" FontSize="20"/>
+                </WrapPanel>
+                <Label Name="Description" Content="sadrzaj" Grid.Column="1"/>
+
+            </Grid>
+        </Button>
+
+</UserControl>
